@@ -1,0 +1,5 @@
+2025/07/23-22:10:43.580 72e8 Creating DB C:\Users\kanfullbuster\booking-automation-backend\user_data\Process-1753283428450_msedge\Default\EdgeCoupons/coupons_data.db since it was missing.
+2025/07/23-22:10:43.613 72e8 Reusing MANIFEST C:\Users\kanfullbuster\booking-automation-backend\user_data\Process-1753283428450_msedge\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/07/23-22:10:44.090 87fc Level-0 table #5: started
+2025/07/23-22:10:44.096 87fc Level-0 table #5: 671921 bytes OK
+2025/07/23-22:10:44.099 87fc Delete type=0 #3
